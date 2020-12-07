@@ -1,5 +1,5 @@
 def hello
-  p "hello, GitHub Desktop　year."
+  p "hello, GitHub."
 end
 
-hello
+hello`
